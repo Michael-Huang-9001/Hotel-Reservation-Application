@@ -1,5 +1,7 @@
-A GUI-based project for my data structures and algorithms class.
-Implements Quicksort, encryption via Huffman Tree, etc.
+#Hotel Reservation Application
 
-Notes:
-Index.java is the starting/initializing class.
+Features include sorting available rooms by price, room number, etc.
+
+Has a login page and and user sign up page.
+
+User password is encrypted using Huffman Tree encryption.
