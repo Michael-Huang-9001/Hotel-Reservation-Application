@@ -1,4 +1,4 @@
-#Hotel Reservation Application
+# Hotel Reservation Application
 
 Features include sorting available rooms by price, room number, etc.
 
